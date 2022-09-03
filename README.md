@@ -11,4 +11,4 @@ Slides and tutorials that I taught in Pars Pajouhan
 5. **Arrays**
 6. **Pointers, Reference ,Static & Dynamic Memory , Dangling Pointers**
 7. **Functions,Function Overloading , Recursion**
-8. **Files , Exceptions**
+8. **Templates , Files , Exceptions**
